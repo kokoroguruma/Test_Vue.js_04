@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <!-- <img src="./assets/logo.png"> -->
     <router-view/>
 
-    <a class="btn btn-default" href="#" role="button">Link</a>
+    <!-- <a class="btn btn-default" href="#" role="button">Link</a> -->
 
   </div>
 </template>
